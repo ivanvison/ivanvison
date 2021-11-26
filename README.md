@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivan Vison
 - 👀 I make things happen. Interested in Project Management, QA, cigars, whiskey and my bald head
 - 🌱 I’m currently learning QA, Automation Testing and a lot more
-- 💞️ I’m looking to collaborate on projects that will change the world
+- 💞️ I’m looking to collaborate in projects that will change the world
 - ⚡ Fun fact: In my other life I was a race car driver
 
 <!---
