@@ -7,7 +7,7 @@
 - ⚡ Fun fact: In my other life I was a race car driver
 
 <h3>🛠 Tech Stack</h3>
-HTML; CSS; WORDPRESS; GIT; GITHUB; VISUAL STUDIO; SUBLIME TEXT; BOOTSTRAP
+HTML; CSS; WORDPRESS; GIT; GITHUB; VISUAL STUDIO; SUBLIME TEXT; BOOTSTRAP; PHOTOSHOP; ILLUSTRATOR
 
 <!---
 ivanvison/ivanvison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
