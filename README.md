@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Software Testing, Automation Testing, Python and a lot more
 - 💞️ I’m looking to collaborate in projects that will change the world (again)
 - ⚡ Fun fact: In my other life I was a race car driver
+- ⭐ My first star in GitHub was given to me by my Brother: https://github.com/bvisonl
 
 <!---
 ivanvison/ivanvison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
