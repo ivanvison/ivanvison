@@ -6,6 +6,8 @@
 - 💞️ We change not only the world with every line of code or every test, but the universe and galaxies as well.
 - ⚡ Fun fact: In my other life I was a race car driver
 - ⭐ My first star in GitHub was given to me by my Brother: https://github.com/bvisonl
+- 🔥 Something to remember! - Every day above ground is a great day! LET'S GO!
+
 
 <!---
 ivanvison/ivanvison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
