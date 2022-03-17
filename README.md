@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Ivan Vison
 - 👀 Interested in Project Management, Software Testing/QA, Cigars, Whiskey and my bald head
 - 🌱 I’m currently learning Software Testing, Automation Testing, Python and a lot more
-- 💞️ I’m looking to collaborate in projects that will change the world (again)
+- 💞️ We change not only the world with every line of code or every test, but the universe and galaxies as well.
 - ⚡ Fun fact: In my other life I was a race car driver
 - ⭐ My first star in GitHub was given to me by my Brother: https://github.com/bvisonl
 
