@@ -1,7 +1,7 @@
 <h3>About Me</h3>
 
 - 👋 Hi, I’m Ivan Vison.
-- 👀 Interested in Project Management, Software Testing/QA, Cigars, Whiskey.
+- ⚡ Mix between Technology, Project Management, Software Testing and Marketing
 - 🌱 I’m currently learning Software Testing, Automation Testing, Python and a lot more.
 - :rocket: We change not only the world with every line of code or every test, but the universe and galaxies as well.
 - ⚡ Fun fact: In my other life I was a race car driver.
