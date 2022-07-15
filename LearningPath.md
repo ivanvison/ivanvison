@@ -1,7 +1,6 @@
 This is my personal learning path. The stuff I've learned and the ones I have pending. Organized ASC. 
 
 ## In Progress / Pending
-- Complete Python Bootcamp (Udemy - [Link](https://www.udemy.com/course/complete-python-bootcamp))
 - Playwright with Python for Web Automation Testing + Visual (Udemy - [Link](https://www.udemy.com/course/playwright-with-python-for-web-automation-testing/))
 - Selenium Webdriver with PYTHON from Scratch + Frameworks (Udemy - [Link](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/))
 - Learn JMETER from Scratch on Live Apps -Performance Testing (Udemy - [Link](https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool/))
@@ -28,3 +27,4 @@ This is my personal learning path. The stuff I've learned and the ones I have pe
 5. Playwright JS Automation Testing from Scratch with Framework - (Udemy - [Link](https://www.udemy.com/course/playwright-tutorials-automation-testing/))
 6. Introducción a la Programación en Python - FreeCodeCamp - (Youtube - [Link](https://www.youtube.com/watch?v=DLikpfc64cA&list=PL_alpKV82zponmQ-W4NN3fDxHc244glng&index=1))
 7. Software Testing Full Course In 10 Hours - (Edureka!/Youtube - [Link](https://www.youtube.com/watch?v=sO8eGL6SFsA))
+8. Complete Python Bootcamp (Udemy - [Link](https://www.udemy.com/course/complete-python-bootcamp))
