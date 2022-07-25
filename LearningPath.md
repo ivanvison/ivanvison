@@ -1,20 +1,17 @@
 This is my personal learning path. The stuff I've learned and the ones I have pending. Organized ASC. 
 
 ## In Progress / Pending
-- Playwright with Python for Web Automation Testing + Visual (Udemy - [Link](https://www.udemy.com/course/playwright-with-python-for-web-automation-testing/))
 - Selenium Webdriver with PYTHON from Scratch + Frameworks (Udemy - [Link](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/))
 - Learn JMETER from Scratch on Live Apps -Performance Testing (Udemy - [Link](https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool/))
 - Postman - Learn API Testing from Scratch with Live Projects (Udemy - [Link](https://www.udemy.com/course/postman-api-automation-testing-with-javascript/))
 - Jenkins, From Zero To Hero: Become a DevOps Jenkins Master (Udemy - [Link](https://www.udemy.com/course/jenkins-from-zero-to-hero/))
-- Complete Python Developer in 2022: Zero to Mastery (Udemy - [Link](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/))
 - Python Automation Tutorial (Youtube - [Link](https://www.youtube.com/watch?v=s8XjEuplx_U))
 - GitHub Actions (Youtube - [Link](https://www.youtube.com/watch?v=R8_veQiYBjI))
 - DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS (Youtube - [Link](https://www.youtube.com/watch?v=PGyhBwLyK2U))
 - Python And Flask Framework Complete Course (Udemy - [Link](https://www.udemy.com/course/flask-framework-complete-course-for-beginners/))
 - Clean Code (Udemy - [Link](https://www.udemy.com/course/writing-clean-code/))
 - The Git & Github Bootcamp (Udemy - [Link](https://www.udemy.com/course/git-and-github-bootcamp/))
-- GOLANG Basics
-- Pentaho for ETL and Data Integration (Udemy - [Link](https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/))
+
 
 
 ## Done
@@ -28,3 +25,10 @@ This is my personal learning path. The stuff I've learned and the ones I have pe
 6. Introducción a la Programación en Python - FreeCodeCamp - (Youtube - [Link](https://www.youtube.com/watch?v=DLikpfc64cA&list=PL_alpKV82zponmQ-W4NN3fDxHc244glng&index=1))
 7. Software Testing Full Course In 10 Hours - (Edureka!/Youtube - [Link](https://www.youtube.com/watch?v=sO8eGL6SFsA))
 8. Complete Python Bootcamp (Udemy - [Link](https://www.udemy.com/course/complete-python-bootcamp))
+9. Playwright with Python for Web Automation Testing + Visual (Udemy - [Link](https://www.udemy.com/course/playwright-with-python-for-web-automation-testing/))
+
+
+
+## TBD
+- GOLANG Basics 
+- Pentaho for ETL and Data Integration (Udemy - [Link](https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/))
