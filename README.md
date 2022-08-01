@@ -26,9 +26,9 @@ Tech Stack
     <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&style=flat">
-    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/-Selenium-335061.svg?logo=selenium&style=flat">
+    <img src="https://img.shields.io/badge/-Postgresql-F9F9F9.svg?logo=postgresql&style=flat">
+    <img src="https://img.shields.io/badge/-Jenkins-335061.svg?logo=jenkins&style=flat">
   </td>
 </tr>
 </table>
