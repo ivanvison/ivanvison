@@ -9,7 +9,6 @@ This is my personal learning path. The stuff I've learned and the ones I have pe
 - GitHub Actions (Youtube - [Link](https://www.youtube.com/watch?v=R8_veQiYBjI))
 - DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS (Youtube - [Link](https://www.youtube.com/watch?v=PGyhBwLyK2U))
 - Python And Flask Framework Complete Course (Udemy - [Link](https://www.udemy.com/course/flask-framework-complete-course-for-beginners/))
-- Clean Code (Udemy - [Link](https://www.udemy.com/course/writing-clean-code/))
 - The Git & Github Bootcamp (Udemy - [Link](https://www.udemy.com/course/git-and-github-bootcamp/))
 
 
@@ -26,6 +25,7 @@ This is my personal learning path. The stuff I've learned and the ones I have pe
 7. Software Testing Full Course In 10 Hours - (Edureka!/Youtube - [Link](https://www.youtube.com/watch?v=sO8eGL6SFsA))
 8. Complete Python Bootcamp (Udemy - [Link](https://www.udemy.com/course/complete-python-bootcamp))
 9. Playwright with Python for Web Automation Testing + Visual (Udemy - [Link](https://www.udemy.com/course/playwright-with-python-for-web-automation-testing/))
+10. Clean Code (Udemy - [Link](https://www.udemy.com/course/writing-clean-code/))
 
 
 
