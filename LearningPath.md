@@ -1,7 +1,6 @@
 This is my personal learning path. The stuff I've learned and the ones I have pending. Organized ASC. 
 
 ## In Progress / Pending
-- Selenium Webdriver with PYTHON from Scratch + Frameworks (Udemy - [Link](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/))
 - Learn JMETER from Scratch on Live Apps -Performance Testing (Udemy - [Link](https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool/))
 - Postman - Learn API Testing from Scratch with Live Projects (Udemy - [Link](https://www.udemy.com/course/postman-api-automation-testing-with-javascript/))
 - Jenkins, From Zero To Hero: Become a DevOps Jenkins Master (Udemy - [Link](https://www.udemy.com/course/jenkins-from-zero-to-hero/))
@@ -26,7 +25,7 @@ This is my personal learning path. The stuff I've learned and the ones I have pe
 8. Complete Python Bootcamp (Udemy - [Link](https://www.udemy.com/course/complete-python-bootcamp))
 9. Playwright with Python for Web Automation Testing + Visual (Udemy - [Link](https://www.udemy.com/course/playwright-with-python-for-web-automation-testing/))
 10. Clean Code (Udemy - [Link](https://www.udemy.com/course/writing-clean-code/))
-
+11. Selenium Webdriver with PYTHON from Scratch + Frameworks (Udemy - [Link](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/))
 
 
 ## TBD
