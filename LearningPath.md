@@ -2,6 +2,7 @@ This is my personal learning path. The stuff I've learned and the ones I have pe
 
 ## In Progress / Pending
 - From Engineer to Technical Manager: A Survival Guide (Udemy - [Link](https://www.udemy.com/course/from-engineer-to-technical-manager-a-survival-guide/))
+- System Design Masterclass (2025) (Udemy - [Link](https://www.udemy.com/course/system-design-masterclass/))
 - Complete Modern PHP Developer Course (Udemy - [Link](https://www.udemy.com/course/complete-modern-php-developer/?couponCode=ST6MT60525G3))
 - The Git & Github Bootcamp (Udemy - [Link](https://www.udemy.com/course/git-and-github-bootcamp/))
 - GitHub Actions (Youtube - [Link](https://www.youtube.com/watch?v=R8_veQiYBjI))
